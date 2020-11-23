@@ -26,7 +26,7 @@ Emphasis has been made on Comments - keeping them at the forefront of the editor
 
 ![LWC Javascript](lwc-js.png)
 
-##LWC Html
+## LWC Html
 
 ![LWC Html](lwc-html.png)
 
