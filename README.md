@@ -1,6 +1,6 @@
 # Codey's In Bed By 10pm
 
-This is my first VS Code Theme. Special thanks to [@sdras](https://github.com/sdras) for [her article on how to make VS Code Themes](https://css-tricks.com/creating-a-vs-code-theme/) and for the basis of this theme: [https://github.com/sdras/inbedby7pm](In Bed By 7pm)
+This is my first VS Code Theme. Special thanks to [@sdras](https://github.com/sdras) for [her article on how to make VS Code Themes](https://css-tricks.com/creating-a-vs-code-theme/) and for the basis of this theme: [In Bed By 7pm](https://github.com/sdras/inbedby7pm)
 
 ## About this theme
 
