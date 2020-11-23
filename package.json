@@ -1,0 +1,21 @@
+{
+    "name": "codey-s-in-bed-by-10",
+    "displayName": "Codey's in bed by 10",
+    "description": "A delightfully beautiful and accessible theme for Salesforce Development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Codey's in bed by 10",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codey's in bed by 10-color-theme.json"
+            }
+        ]
+    }
+}
