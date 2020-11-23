@@ -2,17 +2,21 @@
 
 This is my first VS Code Theme. Special thanks to [@sdras](https://github.com/sdras) for [her article on how to make VS Code Themes](https://css-tricks.com/creating-a-vs-code-theme/) and for the basis of this theme: [In Bed By 7pm](https://github.com/sdras/inbedby7pm)
 
-## About this theme
+# About this theme
 
-### For Salesforce Development
+## Reviews (Entirely unbiased)
+
+> My dad made this thing to give words colors and it's verry pretty. By the way, my dad's awesome - Boo, Age 6.
+
+## For Salesforce Development
 
 This theme was designed around the specific needs of Salesforce developers and features color and font emphasis selections specifically for Apex, Javascript, html and css.
 
-### Accessible
+## Accessible
 
 This theme has been built, from the ground up with accessibility in mind. It exceeds contrast minimums by at least 1 point for every combination.
 
-### For Code Comprehension
+## For Code Comprehension
 
 Emphasis has been made on Comments - keeping them at the forefront of the editor.
 
