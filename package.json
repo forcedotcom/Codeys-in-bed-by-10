@@ -7,6 +7,10 @@
         "vscode": "^1.51.0"
     },
     "publisher": "codefriar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codefriar/Codeys-in-bed-by-10"
+    },
     "categories": [
         "Themes"
     ],

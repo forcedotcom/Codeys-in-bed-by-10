@@ -1,8 +1,5 @@
 # Codey's In Bed By 10pm
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sdras.inbedby7pm.svg)](https://aka.ms/inbedby7pm)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.inbedby7pm.svg)](https://aka.ms/inbedby7pm)
-
 This is my first VS Code Theme. Special thanks to @sdras for [her article on how to make these](https://css-tricks.com/creating-a-vs-code-theme/) and for the basis of this theme: [https://aka.ms/inbedby7pm](In Bed By 7pm)
 
 ## About this theme
@@ -23,13 +20,14 @@ Emphasis has been made on Comments - keeping them at the forefront of the editor
 
 ## Apex
 
-![Apex](apex.png)
+![Apex](Apex.png)
 
 ## LWC Javascript
 
 ![LWC Javascript](lwc-js.png)
 
 ##LWC Html
+
 ![LWC Html](lwc-html.png)
 
 # Installation
