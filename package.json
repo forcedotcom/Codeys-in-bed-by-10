@@ -2,7 +2,7 @@
     "name": "codey-s-in-bed-by-10",
     "displayName": "Codey's in bed by 10",
     "description": "A delightfully beautiful and accessible theme for Salesforce Development",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.51.0"
     },
