@@ -24,22 +24,22 @@ Emphasis has been made on Comments - keeping them at the forefront of the editor
 
 ## Apex
 
-![Apex](Apex.png)
+![Apex](https://raw.githubusercontent.com/codefriar/Codeys-in-bed-by-10/main/Apex.png)
 
 ## LWC Javascript
 
-![LWC Javascript](lwc-js.png)
+![LWC Javascript](https://raw.githubusercontent.com/codefriar/Codeys-in-bed-by-10/main/lwc-js.png)
 
 ## LWC Html
 
-![LWC Html](lwc-html.png)
+![LWC Html](https://raw.githubusercontent.com/codefriar/Codeys-in-bed-by-10/main/lwc-html.png)
 
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `codeys in bed by 10`
+4.  Search for `codey's in bed by 10`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Codey's in bed by 10**
