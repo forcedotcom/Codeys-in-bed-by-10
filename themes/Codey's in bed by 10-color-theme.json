@@ -4,7 +4,8 @@
 "colors": {
 	"editor.background": "#292c3d",
 	"editor.foreground": "#ebecf1",
-	"contrastBorder": "#1a1c27",
+	"contrastBorder": "#19B5FE5d",
+	"contrastActiveBorder": "#19B5FE5d",
 	"focusBorder": "#1a1c27",
 	"foreground": "#ebecf1",
 	"widget.shadow": "#292c3d",
@@ -44,19 +45,19 @@
 	"list.focusBackground": "#010d18",
 	"list.focusForeground": "#ffffff",
 	"list.highlightForeground": "#ffffff",
-	"list.highlightBackground": "#00000033",
+	"list.highlightBackground": "#19B5FE5d",
 	"list.hoverBackground": "#292c3d",
 	"list.hoverForeground": "#ffffff",
 	"list.inactiveSelectionBackground": "#30354A",
 	"list.inactiveSelectionForeground": "#ebf7ff",
 	"activityBar.background": "#292c3d",
 	"activityBar.foreground": "#ebf7ff",
-	"activityBar.border": "#292c3d",
+	"activityBar.border": "#19B5FE5d",
 	"activityBarBadge.background": "#a27c1178",
 	"activityBarBadge.foreground": "#ffffff",
 	"sideBar.background": "#292c3d",
 	"sideBar.foreground": "#89a4bb",
-	"sideBar.border": "#292c3d",
+	"sideBar.border": "#19B5FE5d",
 	"sideBarTitle.foreground": "#ebf7ff",
 	"sideBarSectionHeader.background": "#292c3d",
 	"sideBarSectionHeader.foreground": "#ebf7ff",
@@ -1132,6 +1133,12 @@
 		"settings": {
 			"fontStyle": "italic bold"
 		}
+	},
+	{
+		"name": "Covered by Tests",
+		"scope": [
+			
+		]
 	}
 ]
 }
