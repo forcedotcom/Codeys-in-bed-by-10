@@ -110,10 +110,6 @@
 	"editorGutter.modifiedBackground": "#a5ffe2db",
 	"editorGutter.addedBackground": "#9CCC65",
 	"editorGutter.deletedBackground": "#EF5350",
-	"diffEditor.insertedTextBackground": "#99b76d23",
-	"diffEditor.insertedTextBorder": "#86cca933",
-	"diffEditor.removedTextBackground": "#ef535033",
-	"diffEditor.removedTextBorder": "#ef53504d",
 	"editorWidget.background": "#1f2129",
 	"editorWidget.border": "#666a79",
 	"editorSuggestWidget.background": "#292c3d",
@@ -128,6 +124,7 @@
 	"editorMarkerNavigation.background": "#30354a",
 	"editorMarkerNavigationError.background": "#1f2129",
 	"editorMarkerNavigationWarning.background": "#FFCA28",
+	// Peek View colors
 	"peekView.border": "#666a79",
 	"peekViewEditor.background": "#1f2129",
 	"peekViewEditor.matchHighlightBackground": "#7e57c25a",
@@ -140,16 +137,13 @@
 	"peekViewTitle.background": "#292c3d",
 	"peekViewTitleDescription.foreground": "#697098",
 	"peekViewTitleLabel.foreground": "#ebf7ff",
-	"merge.currentHeaderBackground": "#ebf7ff",
-	"merge.currentContentBackground": null,
-	"merge.incomingHeaderBackground": "#7e57c25a",
-	"merge.incomingContentBackground": null,
-	"merge.border": null,
+	// Panel Colors
 	"panel.background": "#292c3d",
 	"panel.border": "#666a79",
 	"panelTitle.activeBorder": "#666a79",
 	"panelTitle.activeForeground": "#ffffffcc",
 	"panelTitle.inactiveForeground": "#ebecf180",
+	// Status Bar Colors
 	"statusBar.background": "#292c3d",
 	"statusBar.foreground": "#ebf7ff",
 	"statusBar.border": "#666a79",
@@ -163,21 +157,26 @@
 	"statusBarItem.hoverBackground": "#202431",
 	"statusBarItem.prominentBackground": "#202431",
 	"statusBarItem.prominentHoverBackground": "#202431",
+	// Title Bar Colors
 	"titleBar.activeBackground": "#292c3d",
 	"titleBar.activeForeground": "#eeefff",
 	"titleBar.inactiveBackground": "#292c3d",
 	"titleBar.inactiveForeground": null,
+	// Notifications 
 	"notifications.background": "#30354A",
 	"notifications.border": "#666a79",
 	"notificationCenter.border": "#666a79",
 	"notificationToast.border": "#666a79",
 	"notifications.foreground": "#ffffffcc",
 	"notificationLink.foreground": "#80CBC4",
+	// Extension Button Colors
 	"extensionButton.prominentForeground": "#ffffffcc",
 	"extensionButton.prominentBackground": "#7e57c2cc",
 	"extensionButton.prominentHoverBackground": "#7e57c2",
+	// Picker Colors
 	"pickerGroup.foreground": "#d1aaff",
 	"pickerGroup.border": "#292c3d",
+	// Terminal Colors
 	"terminal.ansiWhite": "#ffffff",
 	"terminal.ansiBlack": "#292c3d",
 	"terminal.ansiBlue": "#9dd2e8",
@@ -196,15 +195,28 @@
 	"terminal.ansiBrightYellow": "#ffeb95",
 	"terminal.selectionBackground": "#1b90dd4d",
 	"terminalCursor.background": "#234d70",
+	// Misc Colors
 	"debugToolBar.background": "#292c3d",
 	"welcomePage.buttonBackground": "#434c5e",
 	"welcomePage.buttonHoverBackground": "#4c566a",
 	"walkThrough.embeddedEditorBackground": "#292c3d",
+	// Diff Editor Colors
+	"diffEditor.insertedTextBackground": "#99b76d23",
+	"diffEditor.insertedTextBorder": "#86cca933",
+	"diffEditor.removedTextBackground": "#ef535033",
+	"diffEditor.removedTextBorder": "#ef53504d",
+	// Git Decorations 
 	"gitDecoration.modifiedResourceForeground": "#a2bffc",
 	"gitDecoration.deletedResourceForeground": "#EF535090",
 	"gitDecoration.untrackedResourceForeground": "#86cca9ff",
 	"gitDecoration.ignoredResourceForeground": "#395a75",
-	"gitDecoration.conflictingResourceForeground": "#ffeb95cc"
+	"gitDecoration.conflictingResourceForeground": "#f09e9e",
+	// Inline Merge Conflict Colors
+	"merge.currentHeaderBackground": "#7347be5a",
+	"merge.currentContentBackground": null,
+	"merge.incomingHeaderBackground": "#7e57c25a",
+	"merge.incomingContentBackground": null,
+	"merge.border": null,
 },
 "tokenColors": [
 	{
