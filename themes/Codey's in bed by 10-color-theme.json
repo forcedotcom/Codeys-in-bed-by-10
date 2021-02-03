@@ -202,9 +202,9 @@
 	"walkThrough.embeddedEditorBackground": "#292c3d",
 	// Diff Editor Colors
 	"diffEditor.insertedTextBackground": "#99b76d23",
-	"diffEditor.insertedTextBorder": "#86cca933",
+	//"diffEditor.insertedTextBorder": "#86cca933",
 	"diffEditor.removedTextBackground": "#ef535033",
-	"diffEditor.removedTextBorder": "#ef53504d",
+	//"diffEditor.removedTextBorder": "#ef53504d",
 	// Git Decorations 
 	"gitDecoration.modifiedResourceForeground": "#a2bffc",
 	"gitDecoration.deletedResourceForeground": "#EF535090",
