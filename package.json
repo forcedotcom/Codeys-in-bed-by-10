@@ -6,11 +6,11 @@
     "engines": {
         "vscode": "^1.51.0"
     },
-    "publisher": "codefriar",
+    "publisher": "Salesforce",
     "icon": "Apex.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/codefriar/Codeys-in-bed-by-10"
+        "url": "https://github.com/forcedotcom/Codeys-in-bed-by-10"
     },
     "categories": [
         "Themes"
